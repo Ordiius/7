@@ -17,7 +17,7 @@ function App() {
   return (
     <Router>
       <div className="app">
-      <Header title="Title" logoImagePath="/monke.gif" />
+      <Header title="Alex" logoImagePath="/fish-spinning.gif" />
         <div className="main-content">
           <SideBar title="SideBar" menuList={menuList} />
           <Content title="Content"></Content>
